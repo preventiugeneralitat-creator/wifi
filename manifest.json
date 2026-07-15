@@ -1,0 +1,17 @@
+{
+    "short_name": "WifiCentros",
+    "name": "Contraseñas Wifi Centros Educativos",
+    "icons": [
+        {
+            "src": "wifi.png",
+            "type": "image/png",
+            "sizes": "510x510",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "./index.html",
+    "background_color": "#1e293b",
+    "theme_color": "#1e293b",
+    "display": "standalone",
+    "orientation": "portrait"
+}
